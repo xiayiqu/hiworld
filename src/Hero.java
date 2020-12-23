@@ -44,7 +44,7 @@ public static void main(String[] args) {
             System.out.println("我玩打野");
             break;
         case ASSIST:
-            System.out.println("我玩辅助");
+            System.out.println("辅助");
             break;
     }
 }
